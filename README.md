@@ -10,7 +10,7 @@
 - 📫 reach me *DM_me_at_linkedin*
 
 [![View Resume](https://img.shields.io/badge/View-Resume-blue?style=for-the-badge&logo=github)](https://drive.google.com/file/d/1plhb9YUwBuqmytTZKtUwZi83q-5POhdC/view?usp=sharing)
-[![View Portfolio](https://img.shields.io/badge/View-Portfolio-green?style=for-the-badge&logo=github)](LINK)
+[![View Portfolio](https://img.shields.io/badge/View-Portfolio-green?style=for-the-badge&logo=github)](https://atul-shukla.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
