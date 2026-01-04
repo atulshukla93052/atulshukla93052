@@ -9,14 +9,14 @@
 - 🌱 I’m currently learning *DSA*
 - 📫 reach me *DM_me_at_linkedin*
 
-[![View Resume](https://img.shields.io/badge/View-Resume-blue?style=for-the-badge&logo=github)](https://drive.google.com/file/d/1plhb9YUwBuqmytTZKtUwZi83q-5POhdC/view?usp=sharing)
+[![View Resume](https://img.shields.io/badge/View-Resume-blue?style=for-the-badge&logo=github)](https://drive.google.com/file/d/15TKtyGuEQdc_2mbw8idRB98LrJI_H8NB/view?usp=sharing)
 [![View Portfolio](https://img.shields.io/badge/View-Portfolio-green?style=for-the-badge&logo=github)](https://atul-shukla.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
 <a href="https://twitter.com/ID" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ID" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/atul-shukla-912000327/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atul-shukla-912000327" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/atul-shukla-81283a299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atul-shukla-81283a299" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ID" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ID" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/atulshukla93/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atulshukla93" height="30" width="40" /></a>
 </p>
