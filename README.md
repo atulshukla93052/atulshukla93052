@@ -19,6 +19,15 @@
 <a href="https://www.linkedin.com/in/atul-shukla-81283a299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atul-shukla-81283a299" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ID" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ID" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/atulshukla93/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atulshukla93" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/profile/atulshukdk0w?tab=overview" target="blank">
+  <img align="center" 
+       src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" 
+       alt="atulshukdk0w" 
+       height="30" 
+       width="40" />
+</a>
+
+
 </p>
 
 
